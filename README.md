@@ -26,9 +26,7 @@ This project demonstrates end-to-end data analysis — from raw data to actionab
 - April and October were the strongest months
 
 ## Dashboard Preview
-
-
-
+![Sales Dashboard](dashboard.png)
 
 ## Author
 Daniel Aboagye Asibu
