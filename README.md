@@ -1,5 +1,3 @@
-# -sales-performance-dashboard
-Sales Performance Dashboard built with Power BI
 
 
 # Sales Performance Dashboard 2024
